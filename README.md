@@ -227,20 +227,7 @@ This project tackled a challenging 27-way classification problem with significan
 ✅ Feature Importance - Understand key words  
 ✅ Saved Models - Ready for deployment  
 
----
-
- 🔮 Future Enhancements
-
-Planned Improvements
-
-- [ ] Deep Learning Integration - LSTM/BERT for 92-95% accuracy
-- [ ] Multi-Label Classification - Predict multiple genres (e.g., "Action-Comedy")
-- [ ] Web Application - Flask API with user interface
-- [ ] Additional Features - Include cast, director, keywords
-- [ ] Explainable AI - LIME/SHAP for prediction explanations
-- [ ] Cloud Deployment - AWS/Azure hosting
-
----
+------
 
  📚 Lessons Learned
 
@@ -257,6 +244,17 @@ Skills Developed
 - ✅ Data preprocessing pipelines
 - ✅ Model evaluation and selection
 - ✅ Project documentation
+
+-  🔮 Future Enhancements
+
+Planned Improvements
+
+- [ ] Deep Learning Integration - LSTM/BERT for 92-95% accuracy
+- [ ] Multi-Label Classification - Predict multiple genres (e.g., "Action-Comedy")
+- [ ] Web Application - Flask API with user interface
+- [ ] Additional Features - Include cast, director, keywords
+- [ ] Explainable AI - LIME/SHAP for prediction explanations
+- [ ] Cloud Deployment - AWS/Azure hosting
 
 ---
 
