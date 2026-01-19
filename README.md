@@ -245,9 +245,8 @@ Skills Developed
 - ✅ Model evaluation and selection
 - ✅ Project documentation
 
--  🔮 Future Enhancements
-
-Planned Improvements
+  🔮 Future Enhancements
+   .Planned Improvements
 
 - [ ] Deep Learning Integration - LSTM/BERT for 92-95% accuracy
 - [ ] Multi-Label Classification - Predict multiple genres (e.g., "Action-Comedy")
